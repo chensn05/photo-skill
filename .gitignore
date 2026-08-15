@@ -1,0 +1,9 @@
+# 生成副产物（不提交）
+*.manifest.json
+*.prompt.md
+*.response.json
+
+# 通用
+.DS_Store
+*.log
+__pycache__/
