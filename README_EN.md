@@ -84,13 +84,17 @@ This style system is derived from the shared visual language of user-curated Xia
 ![cat-on-windowsill](samples/cat-on-windowsill.jpg)
 > Palette: Paper-white + Hazy blue + Charcoal outline
 
-### Weekend Market
+### Weekend Market (with text)
 ![weekend-market](samples/weekend-market.jpg)
-> Palette: Paper-white + Olive green + Cream yellow + Charcoal outline with text
+> Palette: Paper-white + Olive green + Cream yellow + Charcoal text
 
 ### Morning Coffee
 ![morning-coffee](samples/morning-coffee.jpg)
 > Palette: Paper-white + Cream yellow + Charcoal outline
+
+### Girl with Umbrella in the Rain
+![girl-with-umbrella](samples/girl-with-umbrella.jpg)
+> Palette: Paper-white + Hazy blue + Charcoal outline
 
 ## License
 
